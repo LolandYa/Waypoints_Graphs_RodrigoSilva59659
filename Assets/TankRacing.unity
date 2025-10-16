@@ -535,6 +535,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 60
   rotSpeed: 9
+  lookAhead: 10
 --- !u!4 &97374516
 Transform:
   m_ObjectHideFlags: 0
@@ -1269,6 +1270,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 10
   rotSpeed: 10
+  lookAhead: 10
 --- !u!4 &442852439
 Transform:
   m_ObjectHideFlags: 0
@@ -2211,6 +2213,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 15
   rotSpeed: 5
+  lookAhead: 10
 --- !u!4 &729993528
 Transform:
   m_ObjectHideFlags: 0
@@ -2522,6 +2525,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 15
   rotSpeed: 5
+  lookAhead: 10
 --- !u!4 &943463180
 Transform:
   m_ObjectHideFlags: 0
@@ -2848,6 +2852,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 50
   rotSpeed: 8
+  lookAhead: 10
 --- !u!4 &1048883440
 Transform:
   m_ObjectHideFlags: 0
@@ -3229,6 +3234,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 50
   rotSpeed: 8
+  lookAhead: 10
 --- !u!4 &1273913286
 Transform:
   m_ObjectHideFlags: 0
@@ -3486,6 +3492,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 10
   rotSpeed: 10
+  lookAhead: 10
 --- !u!4 &1318753089
 Transform:
   m_ObjectHideFlags: 0
@@ -3660,6 +3667,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 60
   rotSpeed: 9
+  lookAhead: 10
 --- !u!4 &1367955514
 Transform:
   m_ObjectHideFlags: 0
@@ -5469,6 +5477,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 50
   rotSpeed: 8
+  lookAhead: 10
 --- !u!65 &2713447972708953234
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6526,8 +6535,9 @@ MonoBehaviour:
   - {fileID: 546456893}
   - {fileID: 552331470}
   - {fileID: 1413366724}
-  speed: 60
+  speed: 10
   rotSpeed: 9
+  lookAhead: 10
 --- !u!65 &7863693248642204186
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6598,6 +6608,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 15
   rotSpeed: 5
+  lookAhead: 10
 --- !u!65 &7871142010654116012
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6810,6 +6821,7 @@ MonoBehaviour:
   - {fileID: 1413366724}
   speed: 10
   rotSpeed: 10
+  lookAhead: 10
 --- !u!65 &9048989675280529227
 BoxCollider:
   m_ObjectHideFlags: 0
