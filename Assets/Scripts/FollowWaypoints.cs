@@ -23,7 +23,7 @@ public class FollowWaypoints : MonoBehaviour
         g = wpManager.GetComponent<WPManager>().graph;
         currentNode = wps[0];
 
-        // Invoke("GotoRuin", 2.0f);
+        Invoke("GotoRuin", 2.0f);
     }
 
     public void GotoHeli() {
